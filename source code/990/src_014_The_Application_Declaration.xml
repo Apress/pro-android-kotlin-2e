@@ -1,0 +1,11 @@
+<application ...>
+    <activity ...>...</activity>
+    <activity-alias ...>...</activity-alias>
+    <meta-data ...>...</meta-data>
+    <service ...>...</service>
+    <receiver ...>...</receiver>
+    <profileable>...</profileable>
+    <provider ...>...</provider>
+    <uses-library ...>...</uses-library>
+    <uses-native-library ...>...</uses-native-library>
+</application>

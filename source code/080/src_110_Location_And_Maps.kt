@@ -1,0 +1,2 @@
+class MainActivity : AppCompatActivity(), 
+      OnMapReadyCallback { ... }
